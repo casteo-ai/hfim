@@ -1,0 +1,21 @@
+{
+    "01": true,
+    "02": false,
+    "03": true,
+    "04": false,
+    "05": false,
+    "scale": 3112,
+    "cols": [
+        "Date",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "VIX",
+        "UX1",
+        "UX2",
+        "UX3",
+        "UX4",
+        "UX5"
+    ]
+}
